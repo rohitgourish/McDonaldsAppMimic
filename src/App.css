@@ -1,0 +1,33 @@
+/* body {
+  background-image: url('./mcDonaldsLogo.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+} */
+
+.fff{
+  background-color: red;
+}
+
+.yyy{
+  margin: 0px !important;
+  padding: 0px !important;
+  overflow: hidden;
+}
+
+.aaa:hover{
+  background-color: rgb(255, 0, 0);
+  border-style: solid;
+  color: white;
+}
+
+.aaa{
+  /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+  /* border-style: solid; */
+  border-bottom: 1px solid gray;
+  border-top: 1px solid gray;
+}
+
+.horizontalNavbar{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
